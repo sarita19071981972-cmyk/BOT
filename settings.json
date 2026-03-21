@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lifesteal-nQij.aternos.me",
+    "ip": "Lifesteal-nQij.aternos.me:48852",
     "port": 48852,
     "version": "",
     "try-creative": false

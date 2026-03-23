@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5
+      "interval": 50
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10
+      "interval": 1000
     }
   },
   "modules": {

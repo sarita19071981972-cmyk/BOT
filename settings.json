@@ -9,7 +9,7 @@
     "ip": "Lifesteal-nQij.aternos.me",
     "port": 48852,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
@@ -50,17 +50,17 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 5
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": ,
     "place-night": false
   },
   "discord": {
@@ -78,7 +78,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {

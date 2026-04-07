@@ -8,8 +8,8 @@
   "server": {
     "ip": "PvpSmp124.play.hosting",
     "port": ,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
